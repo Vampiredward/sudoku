@@ -1,0 +1,10 @@
+C:\Users\Edward\Documents\Visual Studio 2008\Projects\sudoku\sudoku\bin\Debug\sudoku.exe
+C:\Users\Edward\Documents\Visual Studio 2008\Projects\sudoku\sudoku\bin\Debug\sudoku.pdb
+C:\Users\Edward\Documents\Visual Studio 2008\Projects\sudoku\sudoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edward\Documents\Visual Studio 2008\Projects\sudoku\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Users\Edward\Documents\Visual Studio 2008\Projects\sudoku\sudoku\obj\Debug\sudoku.Properties.Resources.resources
+C:\Users\Edward\Documents\Visual Studio 2008\Projects\sudoku\sudoku\obj\Debug\sudoku.csproj.GenerateResource.Cache
+C:\Users\Edward\Documents\Visual Studio 2008\Projects\sudoku\sudoku\obj\Debug\sudoku.exe
+C:\Users\Edward\Documents\Visual Studio 2008\Projects\sudoku\sudoku\obj\Debug\sudoku.pdb
+E:\01 许渊の工作资料\01 学习\Programming\sudoku\sudoku\obj\Debug\sudoku.exe
+E:\01 许渊の工作资料\01 学习\Programming\sudoku\sudoku\obj\Debug\sudoku.pdb
